@@ -2,9 +2,9 @@
 ## To do:
 ### Desktop:
 * API
-  * 
+  * Distinguishing meals from breakfast, lunch, dinner, snack(I was thinking we could add another int attribute so breakfast: 0, lunch: 1 and so on)
 * Style
-  * 
+  * Use general Erica style, if you guys want we could try to ask for the code that was maybe done?
 * Content
   * Homepage content and tab bar style navigation  
   * Display calories and macro breakdown
